@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Array() {
+function ArrayExample() {
   return (
     [
     <h2 key="alpha">
@@ -11,4 +11,4 @@ function Array() {
   )
 }
 
-export default Array
+export default ArrayExample
